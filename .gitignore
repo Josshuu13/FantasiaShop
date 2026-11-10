@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific files
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+
+# Build output
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods / Carthage (in case they are added later)
+Pods/
+Carthage/Build/
